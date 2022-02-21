@@ -17,7 +17,7 @@ int main()
             first = middle+1;
         else if(arr[middle]==num)
         {
-            cout<<"\nThe number, "<<num<<" found at Position "<<middle-1;
+            cout<<"\nThe number, "<<num<<" found at Position "<<middle+1;
             break;
         }
         else
